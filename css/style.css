@@ -1,0 +1,76 @@
+    /* Custom Stylesheet */
+
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body{
+    
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 10%;
+}
+
+.card {
+    margin: 1%;
+    
+}
+
+.card:hover {
+    margin: 1%;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.26), 0 10px 18px 0 rgba(0, 0, 0, 0.20);
+    
+}
+
+.brand{
+    width:30px;
+    height:16px; 
+    margin-left:12%;
+}
+
+.price{
+    text-align:center;
+    color:grey;
+    margin-top:-15px;
+    border-top:1px solid teal;
+    padding:2%;
+}
+
+.title{
+    text-align:center;
+    color:black;
+    text-overflow:ellipsis;
+    width: 150px;
+    white-space:nowrap;
+    overflow:hidden;
+    margin-left:10%;
+    font-size: 12px;
+}
+
+.logo{
+    width: auto;
+    height: 50%;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 9%;
+}
+
+.waves-effect.waves-light-teal.btn.white{
+    color:teal;
+    margin-right:20%;
+    
+}
