@@ -1,5 +1,6 @@
 # Wandome
-Web App for Wondome in material design using API using Html, Css, Javascript, Jquery.
+Web App for Wondome in material design using API for data
+Made with: Html, Css, Javascript, Jquery.
 
 # Simple screen
 Here you can see a simple screen with the button at the bottom page with two option: star (prefered items); statistics (compare items)
