@@ -1,5 +1,5 @@
 # Wandome
-Web App for Wondome in material design using API for data
+Web App for Wondome in material design using API for data.
 Made with: Html, Css, Javascript, Jquery.
 
 # Simple screen
